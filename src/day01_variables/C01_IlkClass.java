@@ -10,5 +10,5 @@ public class C01_IlkClass {
 
     }
 
-//ilk deneme
+//githup tekrar
 }
